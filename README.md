@@ -32,6 +32,9 @@ Cluster	Age (Mean)	Purchase Amount (Mean)	Review Rating (Mean)	Previous Purchase
 1	         28.22        $60.78                     4.4	              24.99
 2	         54.14        $81.88                     4.4	              25.57
 
+![Uploading Screen Shot 2024-03-05 at 10.53.20 PM.png…]()
+
+
 <img width="509" alt="Screen Shot 2024-03-05 at 10 51 08 PM" src="https://github.com/rimchristian/Customer-Segmentation-Analysis/assets/74616874/7766170e-8891-465b-94b3-e2185b453711">
 
 <img width="863" alt="Screen Shot 2024-03-05 at 10 52 03 PM" src="https://github.com/rimchristian/Customer-Segmentation-Analysis/assets/74616874/1fbdad75-601a-4952-a425-736d1b4cdb7e">
