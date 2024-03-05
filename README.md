@@ -26,11 +26,6 @@ Frequency of Purchases: How often the customer engages in purchasing activities.
 4. Interpretation: Analyze the characteristics of each cluster and assign meaningful labels to them.
 
 # Clustering Analysis Results
-Cluster	Age (Mean)	Purchase Amount (Mean)	Review Rating (Mean)	Previous Purchases (Mean)
-0	         53.51	      $37.37                     4.3               	25.57
-1	         28.22        $60.78                     4.4	              24.99
-2	         54.14        $81.88                     4.4	              25.57
-
 ### Cluster Characteristics
 
 | Cluster | Age (Mean) | Purchase Amount (Mean) | Review Rating (Mean) | Previous Purchases (Mean) |
